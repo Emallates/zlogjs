@@ -35,10 +35,10 @@ Symbol | Meaning
       1. [x] Show List
       -  [ ] Pagination :construction:
       -  [ ] Filter(status) :construction:
-    - [ ] New Apikey :construction: Ahsan
+    - [ ] New Apikey
     - [x] View Apikey
     - [ ] Update Apikey
-    - [ ] Delete Apikey :construction_worker: Nauman
+    - [ ] Delete Apikey
 * [ ] [Rules](#Rules)
   1. [ ] View Rules List
     1. [ ] Show list
