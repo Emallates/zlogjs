@@ -4,9 +4,9 @@ Here we have complete features list of **ZlogJS** front end application
 
 Symbol | Meaning
 ------------ | -------------
-:construction: | Assign
+:construction: | Not required yet
 :construction_worker: | Working on it
-:ticket: | Not required yet
+:ticket: | Assign
 
 ### Features/Use-Cases
 
@@ -33,8 +33,8 @@ Symbol | Meaning
   - [ ] Apikey for Application(s)
     1. [x] View Apikeys List
       1. [x] Show List
-      -  [ ] Pagination :ticket:
-      -  [ ] Filter(status) :ticket:
+      -  [ ] Pagination :construction:
+      -  [ ] Filter(status) :construction:
     - [ ] New Apikey :construction: Ahsan
     - [x] View Apikey
     - [ ] Update Apikey
