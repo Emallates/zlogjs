@@ -16,7 +16,7 @@ Symbol | Meaning
   - [ ] Login
   - [ ] Profile
     1. [x] View
-    - [ ] Update
+    - [ ] Update :construction_worker: Ahsan
 * [ ] [Plans](#Plans)
   1. [ ] Get Plans List
   -  [ ] Get Single Plan
