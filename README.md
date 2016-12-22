@@ -6,7 +6,7 @@ Symbol | Meaning
 ------------ | -------------
 :construction: | Not required yet
 :construction_worker: | Working on it
-:ticket: | Assign
+:ticket: | Assigned To
 
 ### Features/Use-Cases
 
