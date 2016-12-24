@@ -2,6 +2,12 @@
 
 Here we have complete features list of **ZlogJS** front end application
 
+Task type | Counts
+------------ | -------------
+Pending | 25
+Done | 13
+Total | 38
+
 Symbol | Meaning
 ------------ | -------------
 :construction: | Not required yet
