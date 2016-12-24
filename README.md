@@ -39,8 +39,8 @@ Symbol | Meaning
   - [ ] Apikey for Application(s)
     1. [x] View Apikeys List
       1. [x] Show List
-      -  [ ] Pagination :construction:
-      -  [ ] Filter(status) :construction:
+      -  [ ] Pagination
+      -  [ ] Filter(status)
     - [ ] New Apikey
     - [x] View Apikey
     - [ ] Update Apikey
